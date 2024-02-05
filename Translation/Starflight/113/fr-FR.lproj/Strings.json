@@ -517,7 +517,7 @@
     "menu_rates": "Tarifs", 
     "menu_rfid_card": "Carte Gig", 
     "menu_settings": "Préférences", 
-    "menu_sign_out": "Se déconnecter", 
+    "menu_sign_out": "Se log out", 
     "menu_sign_out_confirmation": "Vous déconnecter de %@ ?", 
     "menu_trips": "Trajets", 
     "mfa_contact_support_title": "Si vous ne parvenez pas à saisir un code avec succès, essayez d'appeler l'assistance clientèle.", 
